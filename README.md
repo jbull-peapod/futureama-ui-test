@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 Futurerama UI Te
 
 
 Use this open api to display a list of Futerama charactors.
-https://api.sampleapis.com/futurama/charactors
+https://api.sampleapis.com/futurama/characters
 With a few deatils like.
 - Name: First Middle Initial, Last.
 - Image:
